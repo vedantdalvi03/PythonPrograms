@@ -13,4 +13,4 @@ def test_positive_decimal():
     assert check_number(2.5) == "Positive Number"
 
 def test_negative_decimal():
-    assert check_number(-3.5) == "Negative Number"
+    assert check_number(-3.5) == "Negative Number"   
